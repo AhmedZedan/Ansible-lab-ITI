@@ -1,0 +1,5 @@
+- name: palybook_for_loop
+  hosts: web
+  roles:
+    - web
+  

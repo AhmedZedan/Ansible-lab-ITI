@@ -1,0 +1,2 @@
+[web]
+192.168.1.8 package_name=nginx package_state=latest
