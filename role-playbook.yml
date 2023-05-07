@@ -1,4 +1,4 @@
-- name: palybook_for_loop
+- name: web_role_palybook
   hosts: web
   roles:
     - web
